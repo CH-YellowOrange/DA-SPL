@@ -13,3 +13,15 @@ It's fairly simple and all program is in *Codes*. You can check these two python
 
 * If you want to test it or evaluate it, you can use the following command:
   > python eval_vit_selfatt_lbpf_.py
+
+## Citation
+
+If you find this repository useful, please consider citing:
+
+```bibtex
+@article{huang2025catnet,
+  title   = {CAT-Net: Co-Attention Based Medical Report Generation},
+  author  = {Huang, Cheng and Zhang, Jia and Lee, Tsengdar and others},
+  journal = {IEEE Transactions on Medical Imaging},
+  year    = {2025}
+}
