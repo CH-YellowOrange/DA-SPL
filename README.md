@@ -19,9 +19,10 @@ It's fairly simple and all program is in *Codes*. You can check these two python
 If you find this repository useful, please consider citing:
 
 ```bibtex
-@article{huang2025catnet,
-  title   = {CAT-Net: Co-Attention Based Medical Report Generation},
-  author  = {Huang, Cheng and Zhang, Jia and Lee, Tsengdar and others},
-  journal = {IEEE Transactions on Medical Imaging},
-  year    = {2025}
-}
+@INPROCEEDINGS{DA-SPL,
+  author={Huang, Cheng and Xie, Weizheng and Han, Zeyu and Lee, Tsengdar and Kooner, Karanjit and Wang, Jui-Kai and Zhang, Ning and Zhang, Jia},
+  booktitle={2025 IEEE 25th International Conference on Bioinformatics and Bioengineering (BIBE)}, 
+  title={Automated Glaucoma Report Generation via Dual-Attention Semantic Parallel-LSTM and Multimodal Clinical Data Integration}, 
+  year={2025},
+  pages={698-705},
+  doi={10.1109/BIBE66822.2025.00121}}
